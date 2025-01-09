@@ -12,7 +12,7 @@ class NewTest extends StatelessWidget {
       body: SizedBox(
         height: 400,
         width: 500,
-        child: Text("Body"),
+        child: Text("Body is the new sdlfkaslkfasjflsk "),
       ),
     );
   }
